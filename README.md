@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @heatherpriceonline
-- 💞️ I’m looking to collaborate on anything opensource. I'd love to give back to the community.
-- 📫 How to reach me: send me an email!
+- 👋 Hi, I’m @heatherpriceonline or just Heather.
+- 💞️ My mission is to build software that makes lives, tasks, work, you name it, easier. I want to create a move accessible digital world for all. I'd love to contribute to projects that support this mission.
+- 📫 [mailto:hello@heatherprice.online](Send me an email)
+- 📺 [https://twitch.tv/codewithheather](Check out my twitch channel)
+
+Right now I'm building my personal webpage and portfolio site. I'm streaming the whole process on Twitch! Come and join the community I'm building over there!
 
 <!---
 heatherpriceonline/heatherpriceonline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
