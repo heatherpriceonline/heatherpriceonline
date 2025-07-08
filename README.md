@@ -3,7 +3,9 @@
 - 📫 [Send me an email](mailto:hello@heatherprice.online)
 - 📺 [Check out my twitch channel](https://twitch.tv/codewithheather)
 
-Right now I'm building my personal webpage and portfolio site. I'm streaming the whole process on Twitch! Come and join the community I'm building over there!
+I'm currently...
+Working for an Osteopathic Medical School as a Technical Project Manager.
+Getting a Master's in Data Science - Decision Process Engineering from WGU.
 
 <!---
 heatherpriceonline/heatherpriceonline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
